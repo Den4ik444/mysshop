@@ -1,0 +1,6 @@
+/.vscode
+/nbproject
+build.xml
+README.md
+manifest.mf
+/build/
